@@ -8,7 +8,7 @@ title-block-banner: false
 
 **Quarto Academic**
 
-School
+Zhejiang University
 
 College
 
