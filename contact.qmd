@@ -6,19 +6,14 @@ title-block-banner: false
 
 <center>
 
-**Quarto Academic**
 
-Zhejiang University
+**University:** ZheJiang University
 
-Medical School
+**School:** Medical School
 
-University
+**Phone:** (+86) 18101968830
 
-Address: 
-
-Phone: 
-
-E-mail: 
+**E-mail:** 3220106430@zju.edu.cn 
 
 
 </center>
