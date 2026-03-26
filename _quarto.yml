@@ -5,71 +5,53 @@ project:
 # Meta
 description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
 author-meta: "Dr. Gang He"
-
 website:
-  title: "Quarto Academic"
-  # image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
- 
+  title: "Xinyi Bai" # 或者是 Quarto Academic
   navbar:
-    background: light  # You can change the background color here
-
-    left:   # You can comment out all navigation items here if you just like to keep the index page only
-#      - text: Home
-#        href: index.qmd
-      - text: About
+    background: light
+    left:
+      - text: "About"
         menu:
-          - text: News
-            href: posts.qmd#category=news
-          - text: Events
-            href: posts.qmd#category=event      
-          - text: Contact
-            href: contact.qmd             
-      - text: Research
+          - text: "About Me"
+            file: index.qmd
+          - text: "Volunteering"
+            file: volunteering.qmd
+          - text: "Contact"
+            file: contact.qmd
+      - text: "Projects"
+        file: projects.qmd
+      - text: "Rotations"
         menu:
-          - text: List of Publications
-            href: publications.qmd
-          - text: Selected Papers
-            href: posts.qmd#category=paper
-          - text: Grants
-            href: projects.qmd                                
-      - text: Teaching # Comment the Teaching part out to remove the Teaching page
-        href: teaching.qmd
-      - text: Outreach
-        menu:        
-        - text: Presentations
-          href: posts.qmd#category=presentation                   
-      - text: Group   # Comment the Group part out to remove the Group page
-        href: people.qmd
+          - text: "Overall"
+            file: rotations/overall.qmd
+          - text: "Internal Medicine"
+            file: rotations/internal-medicine.qmd
+          - text: "Physical Medicine"
+            file: rotations/physical-medicine.qmd
+      - text: "Interests"
+        menu:
+          - text: "Running"
+            file: interests/running.qmd
+          - text: "Travel"
+            file: interests/travel.qmd
 
     right: 
       - text: CV
-        href: files/nsf-biosketch.pdf
-      - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
-        target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
-        target: _blank      
-      - icon: rss
-        href: posts.xml
-        target: _blank
+        href: CV_Xinyi_Bai_Chinese.pdf
+      
   
   page-navigation: true
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    left: "[Xinyi Bai](https://github.com/jasbai2004-tech) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "*If in doubt go flat out*"
     right:  
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/jasbai2004-tech
         target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
+      - icon: envelope
+        href: mailto:jasminebai2004@outlook.com  
         target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank  
   
   search:
     location: navbar

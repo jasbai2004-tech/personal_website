@@ -93,9 +93,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto Academic, PhD",
+    "title": "About Me",
     "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\n\nStar this repository to bookmark it for future reference.\n\nFork this repository and rename it to YourGitHubUserName.github.io.\n\nTest to publish your site using GitHub Pages (make sure configuring your GitHub repository to publish from the docs directory, not the root folder).\nCheck if your website works or not. If successful, you should see exactly the same website as this one using your own Github Pages url:\n\nhttps://YourGitHubUserName.github.io if your repository name is YourGitHubUserName.github.io\nhttps://YourGitHubUserName.github.io/RepositoryName for other RepositoryName\nErrors:\n\nIf 404, it is likely you haven’t set up GitHub Pages\nIf it shows the README file, it is likely you’ve published from the root folder, not the docs directory\n\n\n\nIf you achieve this milestone, congratulations! You are now ready to start updating your website:\n\nUpdate the _quarto.yml file to configure your site’s basic settings.\n\nAdd or edit content in the following files and folders:\n\n/posts/ – posts about publications, news, events\n\nteaching.qmd – teaching information\n\nprojects.yml – research or other projects\n\npeople.qmd and /people/ – team or collaborators\n\n/files/ - profiles, images, pdfs, and includes\n\nRender and preview your site locally.\n\nCommit to publish your updates.\nRefine and polish your content and design as needed.\n\n✅ Enjoy your new website!\nLink your website on your official pages to let Google and AI bots include in their search results.\n\n\n\n\nResearcher, Univerisity\n\n\n\n\n\nPhD, Univerisity"
+    "text": "Medical Student (5+3)\nZhejiang University\nEmail:\njasminebai2004 at outlook dot com\n\n  Email    GitHub \n\n\n\nHi, I am a dedicated medical student in the Clinical Medicine (5+3) program at Zhejiang University . My academic journey is fueled by a profound curiosity for human biology and a commitment to evidence-based medical practice.\nI am actively exploring the frontiers of medicine, with specific research experiences in gene editing, microbial drug resistance, and tumor-microbiota interaction models. I am passionate about leveraging translational research to improve patient outcomes.\n\n\n\n\n\n\nGlobal Perspective & Skills: I had the privilege of training in Evidence-Based Medicine at the University of British Columbia (UBC). This experience enriched my understanding of global medical practices and enhanced my proficiency in English, enabling me to engage with international research communities effectively.\n\n\n\n\n\n\n\nMicrobiology & Resistance (SRTP) | Conducted comparative analysis of phenotypic differences (antibiotic resistance and biofilm formation) between clinical and environmental strains of Vibrio parahaemolyticus.\nOncology & Physiology | Designed and established a complex mouse model (FMT + Tumor Implantation) to investigate the “sex hormone-gut microbiota axis” in colorectal cancer.\nGene Editing | Experienced in CRISPR/Cas9 technology and live-cell chromatin dynamics imaging at Chen Baohui’s Lab.\n\n\n\n\n\n\nBachelor of Medicine (Clinical Medicine 5+3) | Zhejiang University, China.\n\nCore Courses: Internal Medicine, Medical Statistics, Python Programming.\nTimeline: 2022 – 2027 (Undergraduate Phase).\n\n\n\n\n\n\n\nSummer Medical Program | University of British Columbia (UBC), Vancouver. Focused on PBL teaching and clinical case analysis in an all-English environment.\nPhotography Operations Volunteer | Hangzhou Asian Games. Provided cross-cultural communication and guidance for international media.\n\n\n\n\n\n\nMandarin: Native\nEnglish: IELTS 7.0 / CET-6 655"
   },
   {
     "objectID": "index.html#experience",
@@ -107,9 +107,9 @@
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Quarto Academic, PhD",
+    "title": "About Me",
     "section": "",
-    "text": "PhD, Univerisity"
+    "text": "Bachelor of Medicine (Clinical Medicine 5+3) | Zhejiang University, China.\n\nCore Courses: Internal Medicine, Medical Statistics, Python Programming.\nTimeline: 2022 – 2027 (Undergraduate Phase)."
   },
   {
     "objectID": "index.html#recent-posts",
@@ -138,5 +138,40 @@
     "title": "People",
     "section": "Alumni",
     "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2022-01\n\n\n2026-01\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024-01\n\n\n2025-01\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2023-01\n\n\n2024-01\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a dedicated medical student in the Clinical Medicine (5+3) program at Zhejiang University . My academic journey is fueled by a profound curiosity for human biology and a commitment to evidence-based medical practice.\nI am actively exploring the frontiers of medicine, with specific research experiences in gene editing, microbial drug resistance, and tumor-microbiota interaction models. I am passionate about leveraging translational research to improve patient outcomes.\n\n\n\n\n\n\nGlobal Perspective & Skills: I had the privilege of training in Evidence-Based Medicine at the University of British Columbia (UBC). This experience enriched my understanding of global medical practices and enhanced my proficiency in English, enabling me to engage with international research communities effectively."
+  },
+  {
+    "objectID": "index.html#research-overview",
+    "href": "index.html#research-overview",
+    "title": "About Me",
+    "section": "",
+    "text": "Microbiology & Resistance (SRTP) | Conducted comparative analysis of phenotypic differences (antibiotic resistance and biofilm formation) between clinical and environmental strains of Vibrio parahaemolyticus.\nOncology & Physiology | Designed and established a complex mouse model (FMT + Tumor Implantation) to investigate the “sex hormone-gut microbiota axis” in colorectal cancer.\nGene Editing | Experienced in CRISPR/Cas9 technology and live-cell chromatin dynamics imaging at Chen Baohui’s Lab."
+  },
+  {
+    "objectID": "index.html#global-extracurricular",
+    "href": "index.html#global-extracurricular",
+    "title": "About Me",
+    "section": "",
+    "text": "Summer Medical Program | University of British Columbia (UBC), Vancouver. Focused on PBL teaching and clinical case analysis in an all-English environment.\nPhotography Operations Volunteer | Hangzhou Asian Games. Provided cross-cultural communication and guidance for international media."
+  },
+  {
+    "objectID": "index.html#languages",
+    "href": "index.html#languages",
+    "title": "About Me",
+    "section": "",
+    "text": "Mandarin: Native\nEnglish: IELTS 7.0 / CET-6 655"
+  },
+  {
+    "objectID": "index.html#白欣宜",
+    "href": "index.html#白欣宜",
+    "title": "About Me",
+    "section": "",
+    "text": "Medical Student (5+3)\nZhejiang University\nEmail:\njasminebai2004 at outlook dot com\n\n  Email    GitHub"
   }
 ]
