@@ -1,5 +1,103 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/paper-title/index.html#abstract",
+    "href": "posts/paper-title/index.html#abstract",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Abstract",
+    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+  },
+  {
+    "objectID": "posts/paper-title/index.html#links",
+    "href": "posts/paper-title/index.html#links",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Links",
+    "text": "Links\nPublished paper"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Medical Student (5+3)\nZhejiang University\nEmail:\njasminebai2004 at outlook dot com\n\n  Email    GitHub \n\n\n\nHi, I am a dedicated medical student in the Clinical Medicine (5+3) program at Zhejiang University . My academic journey is fueled by a profound curiosity for human biology and a commitment to evidence-based medical practice.\nI am actively exploring the frontiers of medicine, with specific research experiences in gene editing, microbial drug resistance, and tumor-microbiota interaction models. I am passionate about leveraging translational research to improve patient outcomes.\n\n\n\n\n\n\nGlobal Perspective & Skills: I had the privilege of training in Evidence-Based Medicine at the University of British Columbia (UBC). This experience enriched my understanding of global medical practices and enhanced my proficiency in English, enabling me to engage with international research communities effectively.\n\n\n\n\n\n\n\nMicrobiology & Resistance (SRTP) | Conducted comparative analysis of phenotypic differences (antibiotic resistance and biofilm formation) between clinical and environmental strains of Vibrio parahaemolyticus.\nOncology & Physiology | Designed and established a complex mouse model (FMT + Tumor Implantation) to investigate the “sex hormone-gut microbiota axis” in colorectal cancer.\nGene Editing | Experienced in CRISPR/Cas9 technology and live-cell chromatin dynamics imaging at Chen Baohui’s Lab.\n\n\n\n\n\n\nBachelor of Medicine (Clinical Medicine 5+3) | Zhejiang University, China.\n\nCore Courses: Internal Medicine, Medical Statistics, Python Programming.\nTimeline: 2022 – 2027 (Undergraduate Phase).\n\n\n\n\n\n\n\nSummer Medical Program | University of British Columbia (UBC), Vancouver. Focused on PBL teaching and clinical case analysis in an all-English environment.\nPhotography Operations Volunteer | Hangzhou Asian Games. Provided cross-cultural communication and guidance for international media.\n\n\n\n\n\n\nMandarin: Native\nEnglish: IELTS 7.0 / CET-6 655"
+  },
+  {
+    "objectID": "index.html#research-overview",
+    "href": "index.html#research-overview",
+    "title": "About Me",
+    "section": "",
+    "text": "Microbiology & Resistance (SRTP) | Conducted comparative analysis of phenotypic differences (antibiotic resistance and biofilm formation) between clinical and environmental strains of Vibrio parahaemolyticus.\nOncology & Physiology | Designed and established a complex mouse model (FMT + Tumor Implantation) to investigate the “sex hormone-gut microbiota axis” in colorectal cancer.\nGene Editing | Experienced in CRISPR/Cas9 technology and live-cell chromatin dynamics imaging at Chen Baohui’s Lab."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "Bachelor of Medicine (Clinical Medicine 5+3) | Zhejiang University, China.\n\nCore Courses: Internal Medicine, Medical Statistics, Python Programming.\nTimeline: 2022 – 2027 (Undergraduate Phase)."
+  },
+  {
+    "objectID": "index.html#global-extracurricular",
+    "href": "index.html#global-extracurricular",
+    "title": "About Me",
+    "section": "",
+    "text": "Summer Medical Program | University of British Columbia (UBC), Vancouver. Focused on PBL teaching and clinical case analysis in an all-English environment.\nPhotography Operations Volunteer | Hangzhou Asian Games. Provided cross-cultural communication and guidance for international media."
+  },
+  {
+    "objectID": "index.html#languages",
+    "href": "index.html#languages",
+    "title": "About Me",
+    "section": "",
+    "text": "Mandarin: Native\nEnglish: IELTS 7.0 / CET-6 655"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "University: ZheJiang University\nSchool: Medical School\nPhone: (+86) 18101968830\nE-mail: 3220106430@zju.edu.cn"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#team",
+    "href": "people.html#team",
+    "title": "People",
+    "section": "",
+    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2022-01\n\n\n2026-01\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024-01\n\n\n2025-01\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2023-01\n\n\n2024-01\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/news-title/index.html",
+    "href": "posts/news-title/index.html",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "posts/news-title/index.html#summary",
+    "href": "posts/news-title/index.html#summary",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "What’s New & Updated",
@@ -19,41 +117,6 @@
     "title": "Publications",
     "section": "Selected Work",
     "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/paper-title/index.html#abstract",
-    "href": "posts/paper-title/index.html#abstract",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
-  },
-  {
-    "objectID": "posts/paper-title/index.html#links",
-    "href": "posts/paper-title/index.html#links",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Links",
-    "text": "Links\nPublished paper"
   },
   {
     "objectID": "teaching.html",
@@ -82,96 +145,5 @@
     "title": "Teaching",
     "section": "Class 3",
     "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "University: ZheJiang University\nSchool: Medical School\nPhone: (+86) 18101968830\nE-mail: 3220106430@zju.edu.cn"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Medical Student (5+3)\nZhejiang University\nEmail:\njasminebai2004 at outlook dot com\n\n  Email    GitHub \n\n\n\nHi, I am a dedicated medical student in the Clinical Medicine (5+3) program at Zhejiang University . My academic journey is fueled by a profound curiosity for human biology and a commitment to evidence-based medical practice.\nI am actively exploring the frontiers of medicine, with specific research experiences in gene editing, microbial drug resistance, and tumor-microbiota interaction models. I am passionate about leveraging translational research to improve patient outcomes.\n\n\n\n\n\n\nGlobal Perspective & Skills: I had the privilege of training in Evidence-Based Medicine at the University of British Columbia (UBC). This experience enriched my understanding of global medical practices and enhanced my proficiency in English, enabling me to engage with international research communities effectively.\n\n\n\n\n\n\n\nMicrobiology & Resistance (SRTP) | Conducted comparative analysis of phenotypic differences (antibiotic resistance and biofilm formation) between clinical and environmental strains of Vibrio parahaemolyticus.\nOncology & Physiology | Designed and established a complex mouse model (FMT + Tumor Implantation) to investigate the “sex hormone-gut microbiota axis” in colorectal cancer.\nGene Editing | Experienced in CRISPR/Cas9 technology and live-cell chromatin dynamics imaging at Chen Baohui’s Lab.\n\n\n\n\n\n\nBachelor of Medicine (Clinical Medicine 5+3) | Zhejiang University, China.\n\nCore Courses: Internal Medicine, Medical Statistics, Python Programming.\nTimeline: 2022 – 2027 (Undergraduate Phase).\n\n\n\n\n\n\n\nSummer Medical Program | University of British Columbia (UBC), Vancouver. Focused on PBL teaching and clinical case analysis in an all-English environment.\nPhotography Operations Volunteer | Hangzhou Asian Games. Provided cross-cultural communication and guidance for international media.\n\n\n\n\n\n\nMandarin: Native\nEnglish: IELTS 7.0 / CET-6 655"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Quarto Academic, PhD",
-    "section": "",
-    "text": "Researcher, Univerisity"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "About Me",
-    "section": "",
-    "text": "Bachelor of Medicine (Clinical Medicine 5+3) | Zhejiang University, China.\n\nCore Courses: Internal Medicine, Medical Statistics, Python Programming.\nTimeline: 2022 – 2027 (Undergraduate Phase)."
-  },
-  {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Quarto Academic, PhD",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2022-01\n\n\n2026-01\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024-01\n\n\n2025-01\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2023-01\n\n\n2024-01\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "About Me",
-    "section": "",
-    "text": "I am a dedicated medical student in the Clinical Medicine (5+3) program at Zhejiang University . My academic journey is fueled by a profound curiosity for human biology and a commitment to evidence-based medical practice.\nI am actively exploring the frontiers of medicine, with specific research experiences in gene editing, microbial drug resistance, and tumor-microbiota interaction models. I am passionate about leveraging translational research to improve patient outcomes.\n\n\n\n\n\n\nGlobal Perspective & Skills: I had the privilege of training in Evidence-Based Medicine at the University of British Columbia (UBC). This experience enriched my understanding of global medical practices and enhanced my proficiency in English, enabling me to engage with international research communities effectively."
-  },
-  {
-    "objectID": "index.html#research-overview",
-    "href": "index.html#research-overview",
-    "title": "About Me",
-    "section": "",
-    "text": "Microbiology & Resistance (SRTP) | Conducted comparative analysis of phenotypic differences (antibiotic resistance and biofilm formation) between clinical and environmental strains of Vibrio parahaemolyticus.\nOncology & Physiology | Designed and established a complex mouse model (FMT + Tumor Implantation) to investigate the “sex hormone-gut microbiota axis” in colorectal cancer.\nGene Editing | Experienced in CRISPR/Cas9 technology and live-cell chromatin dynamics imaging at Chen Baohui’s Lab."
-  },
-  {
-    "objectID": "index.html#global-extracurricular",
-    "href": "index.html#global-extracurricular",
-    "title": "About Me",
-    "section": "",
-    "text": "Summer Medical Program | University of British Columbia (UBC), Vancouver. Focused on PBL teaching and clinical case analysis in an all-English environment.\nPhotography Operations Volunteer | Hangzhou Asian Games. Provided cross-cultural communication and guidance for international media."
-  },
-  {
-    "objectID": "index.html#languages",
-    "href": "index.html#languages",
-    "title": "About Me",
-    "section": "",
-    "text": "Mandarin: Native\nEnglish: IELTS 7.0 / CET-6 655"
-  },
-  {
-    "objectID": "index.html#白欣宜",
-    "href": "index.html#白欣宜",
-    "title": "About Me",
-    "section": "",
-    "text": "Medical Student (5+3)\nZhejiang University\nEmail:\njasminebai2004 at outlook dot com\n\n  Email    GitHub"
   }
 ]
